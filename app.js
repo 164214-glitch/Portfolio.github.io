@@ -3,17 +3,17 @@
 // ============================================================
 
 const PAGES = [
-  { file: 'index.html',   label: 'Portfolio นางสาวสุนิสา จันทร์ผูก' },
+  { file: 'index.html',   label: 'Portfolio นางสาวหนึ่งฤทัย พึ่งฉิม' },
   { file: 'page-02.html', label: 'Statement of Purpose' },
   { file: 'page-03.html', label: 'Profile' },
-  { file: 'page-04.html', label: 'Education' },
-  { file: 'page-05.html', label: 'Activities — Camp และ Open House' },
-  { file: 'page-06.html', label: 'Activities — Camp และ Open House' },
-  { file: 'page-07.html', label: 'Activities — Camp และ Open House' },
-  { file: 'page-08.html', label: 'Activities — วัดความรู้ด้านวิศวกรรมศาสตร์' },
-  { file: 'page-09.html', label: 'Activities — กิจกรรมโครงงานวิจัย' },
-  { file: 'page-10.html', label: 'Activities — Camp และ Open House' },
-  { file: 'page-11.html', label: 'Activities — ด้านจิตอาสา' },
+  { file: 'page-04.html', label: 'Transcript' },
+  { file: 'page-05.html', label: 'Certificate — 01' },
+  { file: 'page-06.html', label: 'Certificate — 02' },
+  { file: 'page-07.html', label: 'Certificate — 03' },
+  { file: 'page-08.html', label: 'Certificate — 04' },
+  { file: 'page-09.html', label: 'Certificate — 05' },
+  { file: 'page-10.html', label: 'Activities — 01' },
+  { file: 'page-11.html', label: 'Activities — 02' },
   { file: 'page-12.html', label: 'Thank You' },
 ];
 
